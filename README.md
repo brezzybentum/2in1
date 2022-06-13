@@ -1,2 +1,2 @@
 # 2in1
-It contains two apps
+It contains two apps.
